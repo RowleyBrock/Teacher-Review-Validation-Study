@@ -9,7 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ```{r}
-HI BAR I AM COMMITTED
-Hello Joe, way to stay committed!
+#HI BAR I AM COMMITTED
 ```
 
+#JS has the big PP
+ggplot (aes(smooth))
+#verynice
