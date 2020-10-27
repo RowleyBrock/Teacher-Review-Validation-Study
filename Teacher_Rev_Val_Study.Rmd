@@ -12,6 +12,3 @@ knitr::opts_chunk$set(echo = TRUE)
 #HI BAR I AM COMMITTED
 ```
 
-#JS has the big PP
-ggplot (aes(smooth))
-#verynice
